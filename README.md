@@ -2,7 +2,7 @@
 
 Funcionamiento de diferentes contenedores para ventanas.
 
-este proyecto es una practica para poner en practica las diferentes funcionalidades de los tipos de contenedores que se pueden utilizar en un jframe.
+este proyecto es una practica para poner en funcionamiento las diferentes funcionalidades de los tipos de contenedores que se pueden utilizar en un jframe.
 
 ## Requisitos
 
